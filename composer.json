@@ -8,7 +8,7 @@
 		{
 			"name": "David Lang",
 			"role": "Developer"
-		},
+		}
 	],
   "minimum-stability": "stable",
   "prefer-stable": true,
